@@ -14,7 +14,7 @@ int func(int number){
     if(number < 0){
       a = number + 2; 
     }
-    return =a;
+    return a;
 }
 
 
